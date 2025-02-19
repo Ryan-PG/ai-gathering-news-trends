@@ -8,3 +8,5 @@ This repository contains a presentation on the latest news and trends in the AI 
 - **trends.md** – A markdown file discussing emerging trends and developments in AI industry.
 - **news.pdf** – A formatted PDF version of the news markdown.
 - **trends.pdf** – A formatted PDF version of the trends markdown.
+
+Date: 19-Feb-2025
