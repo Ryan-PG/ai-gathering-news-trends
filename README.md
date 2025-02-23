@@ -1,4 +1,4 @@
-# News & Trends Presentation
+# News & Trends Presentation Feb-19-2025
 
 This repository contains a presentation on the latest news and trends in the AI industry. It includes markdown files for easy reading and PDF versions (Slides) for better formatting and sharing.
 
